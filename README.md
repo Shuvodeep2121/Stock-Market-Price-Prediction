@@ -1,4 +1,4 @@
-# Stock-Market-Prediction
+# Stock-Market-Price-Prediction
 
 Stock market or Share market is one of the most complicated and sophisticated way to do business.  However, this paper proposes to use machine learning algorithm to predict the future stock price for exchange by using open source libraries and preexisting algorithms to help make this unpredictable format of business a little more predictable. The outcome is completely based on numbers and assumes a lot of axioms that may or may not follow in the real world so as the time of prediction.
 
